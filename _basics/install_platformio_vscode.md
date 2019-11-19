@@ -29,14 +29,14 @@ PlatformIO IDE for VSCode [Get PlatformIO IDE](https://platformio.org/install/id
 
 ### 3. Clone Git Project
 
-Switch to new PlatformIO View in Activity Bar (left side bar), then Quick Access > Clone Git Project ...
+Switch to new PlatformIO View in Activity Bar (left side bar), then Quick Access > Clone Git Project ... AND THEN WHAT???
 
 ![View Command Palette](/assets/images/basics/install_platformio_vscode/platformio_clone_git.png)
 
 ### 4. Select Repository Branch
 
 The name of the branch you are working in is indicated in the bottom left corner in the blue bar.
-Click on it to reveal a list of branches you can work in or create your own.
+Click on it to reveal a list of branches you can work in or create your own. NO, IT IS NOT IN THE LOCATION STATED.
 
 ![View Command Palette](/assets/images/basics/install_platformio_vscode/select_git_branch.png)
 
